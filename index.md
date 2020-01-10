@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Tunisia
-tags: example-tag
+tags: pastevents-tag
 level: 0
 
 region: Africa
