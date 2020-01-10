@@ -1,5 +1,4 @@
 ---
-
 layout: col-sidebar
 title: OWASP Tunisia
 tags: pastevents-tag
