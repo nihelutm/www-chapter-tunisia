@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Nihel Ben Yossuf](mailto:nihel.benyoussef@owasp.org)
+* [Nihel Ben Youssef](mailto:nihel.benyoussef@owasp.org)
