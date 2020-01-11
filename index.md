@@ -29,7 +29,7 @@ All events/meetings are free to attend for both members and non-members of OWASP
 
 ###  Next Actions
 
-####  Wednesday, 07/01/2020
+####  National Survey about Software Security Awarness
 Afin de mieux cibler ses actions futures (cours/moyens/long termes) , OWASP Tunisia chapter mène une compagne de sondage  à l'échelle nationale sur la sensibilisation à la sécurité des logiciels (Software Security ).  
 
 Ce formulaire (2 min à remplir) est destiné aux: 
