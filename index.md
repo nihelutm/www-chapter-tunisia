@@ -38,15 +38,3 @@ Cette compagne s'aligne avec les actions ciblées par la stratégie nationale de
 Nous comptons sur votre participation et sur la diffusion à votre échelle!
 
 Suivez nous sur [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapter.Official) et  [Linkedin](https://www.linkedin.com/groups/8591169/)
-
-
-
-__NOTOC__ <headertabs></headertabs>
-
-[Category:Africa](Category:Africa "wikilink") [Category:OWASP
-Chapter](Category:OWASP_Chapter "wikilink")
-
-
-
-
--->
