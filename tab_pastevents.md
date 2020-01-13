@@ -36,7 +36,7 @@ tags: pastevents-tag
 
 ***2018-03-03**: Presentation of OWASP Foundation and OWASP Tunisia Chapter: Ebanking CyberSecurity Event organized by SECURINETS_ISI @Pôle El Ghazela (Guest Lecture)
 
-<img src="/assets/images/annouce.jpg" width="250" height="250">
+<img src="assets/images/annouce.jpg" width="250" height="250">
 
 **2017-04-06 : Workshop: Introduction to the OWASP Top 10 Mobile Security Risks @ISET RADESBy Abdessabour Arous, Past OWASP Tunisia Chapter**
 
