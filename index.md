@@ -14,7 +14,8 @@ The chapter Leader is  [Nihel Ben Youssef](nihel.benyoussef@owasp.org). Follow c
 
 ### Meeting Sponsors
 The following is the list of organisations who have generously provided us with space for OWASP Tunisia chapter meetings
-![axians](https://www.keejob.com/media/recruiter/recruiter_16995/logo-16995-20190221-123822.jpg)
+<img src="https://www.keejob.com/media/recruiter/recruiter_16995/logo-16995-20190221-123822.jpg" width="150" height="100">
+<!--![axians](https://www.keejob.com/media/recruiter/recruiter_16995/logo-16995-20190221-123822.jpg)-->
 
 ### Speaking at OWASP Tunisia Chapter Events
 If you would like to present a talk on Application Security at future OWASP Tunisia Chapter events - please review and agree with the [OWASP Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leader via e-mail: nihel.benyoussef (at) owasp.org
@@ -22,7 +23,7 @@ Please mention in email's subject : Tunisia Speaker request-your name
 
 
 ###  Event/meeting TICKETS!
-All events/meetings are free to attend for both members and non-members of OWASP and are open to anyone interested in application security and cyber security. Please note that you MUST REGISTER to book your place and get a ticket to be admitted to the event - your name will be checked against the guest list. Please note that generally the space are limited, so please only book tickets if you are able to attend!
+All future events/meetings are free to attend for both members and non-members of OWASP and are open to anyone interested in application security and cyber security. Please note that you MUST REGISTER to book your place and get a ticket to be admitted to the event - your name will be checked against the guest list. Please note that generally the space are limited, so please only book tickets if you are able to attend!
 
 ###  Current/Next Actions
 
