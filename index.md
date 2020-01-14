@@ -25,7 +25,7 @@ Please mention in email's subject : Tunisia Speaker request-your name
 
 
 ###  Event/meeting TICKETS!
-All future events/meetings are free to attend for both members and non-members of OWASP and are open to anyone interested in application security and cyber security. Please note that you MUST REGISTER to book your place and get a ticket to be admitted to the event - your name will be checked against the guest list. Please note that generally the space are limited, so please only book tickets if you are able to attend!
+All events/meetings are free to attend for both members and non-members of OWASP and are open to anyone interested in application security and cyber security. Please note that for our future events, you MUST REGISTER to book your place and get a ticket to be admitted to the event - your name will be checked against the guest list. Please note that generally the space are limited, so please only book tickets if you are able to attend!
 
 ###  Current/Next Actions
 
