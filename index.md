@@ -13,16 +13,18 @@ The chapter Leader is  [Nihel Ben Youssef](nihel.benyoussef@owasp.org). Follow c
 
 
 ### Meeting Sponsors
-The following is the list of organisations who have generously provided us with space for OWASP Tunisia chapter meetings
+The following is the list of organisations who have generously provided us with space for OWASP Tunisia chapter meetings.
+Thank you for your contribution.
 
 
 <img src="https://www.keejob.com/media/recruiter/recruiter_16995/logo-16995-20190221-123822.jpg" width="150" height="100">
 
 ### Partners
-The following is the list of organisations/Foundations who have generously help us to communicate about OWASP Tunisia chapter activities
+The following is the list of organisations/Foundations who have generously help us to communicate about OWASP projects and OWASP Tunisia chapter activities
+Thank you for your contribution.
 
+<img src="assets/images/securinets.jpg" width="150" height="100">
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fctftime.org%2Fteam%2F5084&psig=AOvVaw0DD3JEXsSzURm1mx91WhrV&ust=1581261969183000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKii2YKiwucCFQAAAAAdAAAAABAI" width="150" height="100">
 <!--![axians](https://www.keejob.com/media/recruiter/recruiter_16995/logo-16995-20190221-123822.jpg)-->
 
 ### Speaking at OWASP Tunisia Chapter Events
