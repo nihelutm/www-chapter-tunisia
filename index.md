@@ -20,10 +20,10 @@ Thank you for your contribution.
 <img src="https://www.keejob.com/media/recruiter/recruiter_16995/logo-16995-20190221-123822.jpg" width="150" height="100">
 
 ### Partners
-The following is the list of organisations/Foundations who have generously help us to communicate about OWASP projects and OWASP Tunisia chapter activities
-Thank you for your contribution.
+The following is the list of organisations/Foundations who have generously help us to communicate about OWASP projects and OWASP Tunisia chapter activities. Thank you for your contribution.
 
-<img src="assets/images/securinets.jpg" width="150" height="100">
+
+<img src="assets/images/ansi.jpg" width="200" height="150">|<img src="assets/images/securinets.jpg" width="150" height="100">
 
 <!--![axians](https://www.keejob.com/media/recruiter/recruiter_16995/logo-16995-20190221-123822.jpg)-->
 
