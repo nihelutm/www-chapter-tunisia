@@ -23,9 +23,18 @@ Thank you for your contribution.
 The following is the list of organisations/Foundations who have generously help us to communicate about OWASP projects and OWASP Tunisia chapter activities. Thank you for your contribution.
 
 
-<img src="assets/images/ansi.jpg" width="200" height="150">|<img src="assets/images/securinets.jpg" width="150" height="100">
+<img src="assets/images/ansi.jpg" width="200" height="150">|<img src="assets/images/securinets.jpg" width="150" height="100">|<img src="assets/images/uvtt.png" width="200" height="180">
 
 <!--![axians](https://www.keejob.com/media/recruiter/recruiter_16995/logo-16995-20190221-123822.jpg)-->
+### News!!!!!
+
+We are glad to announce our new partnerships with:
+
+ -  [ANSI National Agency of Computer Security]( https://www.ansi.tn/)
+ -  [UVT Tunis Virtual University]( https://www.uvt.rnu.tn/)
+
+Thanks you for your support and contributions to improve national software security awarness among students, trainers and professionals!
+
 
 ### Speaking at OWASP Tunisia Chapter Events
 If you would like to present a talk on Application Security at future OWASP Tunisia Chapter events - please review and agree with the [OWASP Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leader via e-mail: nihel.benyoussef (at) owasp.org
