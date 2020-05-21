@@ -59,6 +59,20 @@ Merci de remplir ce   [Formulaire ](https://docs.google.com/forms/d/e/1FAIpQLSdh
 Cette compagne s'aligne avec les actions ciblées par la stratégie nationale de Cybersécurité annoncée officiellement le 9 décembre 2019.
 Nous comptons sur votre participation et sur la diffusion à votre échelle!
 
+### Upcoming Meeting!!
+
+Register to our first online event https://www.eventbrite.co.uk/e/owasp-tunisia-chapter-first-online-meeting-tickets-106113319796
+
+Cet événement est le premier Workshop en ligne présenté par OWASP Tunisia Chapter et organisé en deux parties
+#### Première Partie
+L'organisme international à but non lucratif  OWASP(Open Web Application Security Project) et  OWASP Tunisia chapter seront présentés  par  Nihel Ben Youssef, OWASP Tunisia Chapter Leader
+Suivez nous sur 
+Facebook: https://www.facebook.com/OWASP.Tunisia.Chapter.Official 
+Linkedin: https://www.linkedin.com/groups/8591169/
+#### Deuxième Partie
+OWASP Juice Shop – est une application web de boutique en ligne délibérément vulnérable ( Node.js, Express et AngularJS) et qui intègre l’ensemble du top 10 des vulnérabilités de l’OWASP et bien plus encore.
+Le TOP 10  de vulnérabilités WEB et une démo  introductive de pentest(Pwning)  sur la plateforme OWASP Juice Shop seront présentés par  Wajih Hajji, membre OWASP et ingénieur Cybersécurité
+
 ### Next Action
 
 Participation of OWASP Tunisia Chapter to the National Security Day SecuriDay April 2020 with SecuriNets Foundation. 
